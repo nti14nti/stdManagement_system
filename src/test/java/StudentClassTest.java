@@ -1,4 +1,4 @@
-package org.example;
+// package org.example;
 
 import org.example.StudentClass;
 import org.junit.jupiter.api.BeforeEach;
